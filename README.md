@@ -11,7 +11,7 @@ By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https
 
 After you finished the begginers, functions and loops series; This series will really prepare you for your next job or any any other programming challenge. Practice everything there you need to know to build algorithms with python, from intermadiate to hard challenges: The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
 
-These exercises were built in collaboration, we need you! If you find any bugs or misspells plese contribute and report them.
+These exercises were built in collaboration, we need you! If you find any bugs or misspells please contribute and report them.
 
 <!-- hide -->
 
